@@ -236,7 +236,7 @@ export default function LoginPage() {
             Looking for platform governance & review moderation?
           </p>
           <a
-            href="http://localhost:3001"
+            href={process.env.NEXT_PUBLIC_ADMIN_URL || 'https://icampusproadmin.vercel.app'}
             target="_blank"
             rel="noreferrer"
             style={{
@@ -249,7 +249,7 @@ export default function LoginPage() {
             }}
           >
             <ShieldCheck size={16} />
-            <span>Open Central Admin Console (Port 3001) &rarr;</span>
+            <span>Open Central Admin Console &rarr;</span>
           </a>
         </div>
       </div>

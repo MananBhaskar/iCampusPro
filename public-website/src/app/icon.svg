@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <defs>
+    <linearGradient id="icampus-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563eb" />
+      <stop offset="100%" stop-color="#06b6d4" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="1.5" stdDeviation="1.5" flood-color="#1e3a8a" flood-opacity="0.3" />
+    </filter>
+  </defs>
+  <!-- Background Badge -->
+  <rect width="32" height="32" rx="7" fill="url(#icampus-grad)" />
+  
+  <!-- Graduation Cap Icon -->
+  <g filter="url(#glow)" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Diamond Top -->
+    <path d="M16 7 L26.5 12 L16 17 L5.5 12 Z" fill="#ffffff" fill-opacity="0.15" />
+    <!-- Cap Crown / Headband -->
+    <path d="M9.5 14.8 V19.2 C9.5 21.5 12.4 23.2 16 23.2 C19.6 23.2 22.5 21.5 22.5 19.2 V14.8" />
+    <!-- Tassel -->
+    <path d="M23.5 13.5 V20" stroke-width="1.8" />
+    <circle cx="23.5" cy="20.8" r="0.8" fill="#ffffff" stroke="none" />
+  </g>
+</svg>

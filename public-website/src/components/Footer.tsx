@@ -101,6 +101,15 @@ export default function Footer() {
               <li>
                 <Link href="/#top-rated">Top-Rated Institutes</Link>
               </li>
+              <li>
+                <a
+                  href={process.env.NEXT_PUBLIC_ADMIN_URL || 'https://icampusproadmin.vercel.app'}
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  Admin Console
+                </a>
+              </li>
             </ul>
           </div>
 

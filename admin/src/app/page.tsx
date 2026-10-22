@@ -42,6 +42,8 @@ interface DatabaseData {
   newsletters: any[];
 }
 
+const PUBLIC_WEBSITE_URL = process.env.NEXT_PUBLIC_PUBLIC_WEBSITE_URL || 'https://icampuspro.vercel.app';
+
 export default function AdminDashboardPage() {
   const [data, setData] = useState<DatabaseData | null>(null);
   const [loading, setLoading] = useState(true);
@@ -339,7 +341,7 @@ export default function AdminDashboardPage() {
         {/* Public Website Link */}
         <div style={{ padding: '1.25rem', borderTop: '1px solid var(--admin-border)' }}>
           <a
-            href="http://localhost:3000"
+            href={PUBLIC_WEBSITE_URL}
             target="_blank"
             rel="noreferrer"
             className="admin-btn admin-btn-outline"
@@ -884,7 +886,7 @@ export default function AdminDashboardPage() {
                           </td>
                           <td>
                             <a
-                              href={`http://localhost:3000/institutes/${inst.slug}`}
+                              href={`${PUBLIC_WEBSITE_URL}/institutes/${inst.slug}`}
                               target="_blank"
                               rel="noreferrer"
                               className="admin-btn admin-btn-outline"

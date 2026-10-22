@@ -16,6 +16,8 @@ import {
 } from 'lucide-react';
 import RegistrationModal from './RegistrationModal';
 
+const ADMIN_URL = process.env.NEXT_PUBLIC_ADMIN_URL || 'https://icampusproadmin.vercel.app';
+
 export default function Header() {
   const pathname = usePathname();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -216,7 +218,7 @@ export default function Header() {
               </Link>
 
               <a
-                href="http://localhost:3001"
+                href={ADMIN_URL}
                 target="_blank"
                 rel="noreferrer"
                 className="btn btn-secondary header-btn-admin"
@@ -354,7 +356,7 @@ export default function Header() {
                 </Link>
 
                 <a
-                  href="http://localhost:3001"
+                  href={ADMIN_URL}
                   target="_blank"
                   rel="noreferrer"
                   className="btn btn-secondary mobile-btn"
