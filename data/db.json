@@ -1,0 +1,607 @@
+{
+  "institutes": [
+    {
+      "id": "inst-001",
+      "slug": "delhi-public-school-rk-puram",
+      "name": "Delhi Public School, R.K. Puram",
+      "type": "School",
+      "status": "Published",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "address": "Sector XII, R.K. Puram, New Delhi, Delhi 110022",
+      "description": "Delhi Public School, R.K. Puram is one of the premier educational institutions in India. Recognized for excellence in academics, co-curricular arts, sports, and holistic character building, it prepares students for leadership in an interconnected world.",
+      "contactNumber": "+91 11 4911 5555",
+      "email": "contact@dpsrkp.net",
+      "website": "https://dpsrkp.net",
+      "affiliation": "CBSE, New Delhi",
+      "establishedYear": 1972,
+      "logo": "/images/institutes/dps-logo.png",
+      "coverImage": "/images/institutes/dps-cover.jpg",
+      "facilities": {
+        "hostel": true,
+        "transport": true,
+        "smartClassrooms": true,
+        "sportsComplex": true,
+        "scienceLabs": true,
+        "library": true,
+        "cafeteria": true,
+        "wifi": true
+      },
+      "achievements": [
+        {
+          "id": "ach-1",
+          "title": "All India #1 Day-cum-Boarding School",
+          "issuingOrg": "EducationWorld Grand Jury Rankings",
+          "year": 2025,
+          "description": "Awarded for exceptional STEM achievements, digital campus initiatives, and academic board results."
+        },
+        {
+          "id": "ach-2",
+          "title": "Green Campus Excellence Award",
+          "issuingOrg": "Ministry of Education & Environment",
+          "year": 2024,
+          "description": "Commended for zero-waste initiatives, solar power generation, and ecological stewardship."
+        }
+      ],
+      "ratingSummary": {
+        "averageRating": 5,
+        "totalReviews": 4
+      }
+    },
+    {
+      "id": "inst-002",
+      "slug": "st-xaviers-college-mumbai",
+      "name": "St. Xavier's College, Autonomous",
+      "type": "College",
+      "status": "Published",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "address": "5, Mahapalika Marg, Dhobi Talao, Fort, Mumbai, Maharashtra 400001",
+      "description": "St. Xavier's College is a premier autonomous higher education institution dedicated to academic rigor, intellectual freedom, and social equity. Renowned for its heritage architecture, vibrant research centers, and global alumni network.",
+      "contactNumber": "+91 22 2262 0661",
+      "email": "admissions@xaviers.edu",
+      "website": "https://xaviers.edu",
+      "affiliation": "University of Mumbai, NAAC A+",
+      "establishedYear": 1869,
+      "logo": "/images/institutes/xaviers-logo.png",
+      "coverImage": "/images/institutes/xaviers-cover.jpg",
+      "facilities": {
+        "hostel": true,
+        "transport": false,
+        "smartClassrooms": true,
+        "sportsComplex": true,
+        "scienceLabs": true,
+        "library": true,
+        "cafeteria": true,
+        "wifi": true
+      },
+      "achievements": [
+        {
+          "id": "ach-3",
+          "title": "NIRF Top 5 Autonomous Colleges in India",
+          "issuingOrg": "National Institutional Ranking Framework",
+          "year": 2025,
+          "description": "Secured highest ranking in student-faculty ratio, publication volume, and placement records."
+        }
+      ],
+      "ratingSummary": {
+        "averageRating": 4.9,
+        "totalReviews": 56
+      }
+    },
+    {
+      "id": "inst-003",
+      "slug": "allen-career-institute-kota",
+      "name": "ALLEN Career Institute",
+      "type": "Coaching Institute",
+      "status": "Published",
+      "city": "Kota",
+      "state": "Rajasthan",
+      "address": "Sankalp, CP-6, Indra Vihar, Kota, Rajasthan 324005",
+      "description": "ALLEN Career Institute is India's most prestigious coaching center for JEE (Main+Advanced), NEET-UG, and National Olympiads. Equipped with seasoned faculty, rigorous test series, and dedicated psychological counseling wings.",
+      "contactNumber": "+91 744 275 7575",
+      "email": "info@allen.ac.in",
+      "website": "https://allen.ac.in",
+      "affiliation": "Recognized National Coaching Academy",
+      "establishedYear": 1988,
+      "logo": "/images/institutes/allen-logo.png",
+      "coverImage": "/images/institutes/allen-cover.jpg",
+      "facilities": {
+        "hostel": true,
+        "transport": true,
+        "smartClassrooms": true,
+        "sportsComplex": false,
+        "scienceLabs": true,
+        "library": true,
+        "cafeteria": true,
+        "wifi": true
+      },
+      "achievements": [
+        {
+          "id": "ach-4",
+          "title": "AIR 1 in JEE Advanced & NEET 2025",
+          "issuingOrg": "NTA / IIT JEE Office",
+          "year": 2025,
+          "description": "Over 2,400 students selected in IITs and Top Government Medical Colleges."
+        }
+      ],
+      "ratingSummary": {
+        "averageRating": 4.7,
+        "totalReviews": 89
+      }
+    },
+    {
+      "id": "inst-004",
+      "slug": "eurokids-preschool-koramangala",
+      "name": "EuroKids Pre-School Koramangala",
+      "type": "Play School",
+      "status": "Published",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "address": "80 Feet Road, 4th Block, Koramangala, Bengaluru, Karnataka 560034",
+      "description": "EuroKids Koramangala offers a child-centric, playful, and developmentally supportive early learning environment with Mindful Learning pedagogies, indoor sensory gyms, and secure child tracking systems.",
+      "contactNumber": "+91 80 4112 8899",
+      "email": "koramangala@eurokidsindia.com",
+      "website": "https://eurokidsindia.com",
+      "affiliation": "Early Childhood Association (ECA) Certified",
+      "establishedYear": 2012,
+      "logo": "/images/institutes/eurokids-logo.png",
+      "coverImage": "/images/institutes/eurokids-cover.jpg",
+      "facilities": {
+        "hostel": false,
+        "transport": true,
+        "smartClassrooms": true,
+        "sportsComplex": false,
+        "scienceLabs": false,
+        "library": true,
+        "cafeteria": false,
+        "wifi": false
+      },
+      "achievements": [
+        {
+          "id": "ach-5",
+          "title": "Most Innovative Pre-School Curriculum",
+          "issuingOrg": "India Early Learning Conclave",
+          "year": 2025,
+          "description": "Awarded for holistic development modules and biometric safety standards."
+        }
+      ],
+      "ratingSummary": {
+        "averageRating": 4.6,
+        "totalReviews": 31
+      }
+    },
+    {
+      "id": "inst-005",
+      "slug": "national-institute-of-design-ahmedabad",
+      "name": "National Institute of Design (NID)",
+      "type": "Others",
+      "status": "Published",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "address": "Paldi, Ahmedabad, Gujarat 380007",
+      "description": "NID is an Institute of National Importance under the Ministry of Commerce & Industry, renowned worldwide for design pedagogy, industrial design, interaction craft, and textile innovation.",
+      "contactNumber": "+91 79 2662 3692",
+      "email": "academic@nid.edu",
+      "website": "https://nid.edu",
+      "affiliation": "Statutory Institute of National Importance",
+      "establishedYear": 1961,
+      "logo": "/images/institutes/nid-logo.png",
+      "coverImage": "/images/institutes/nid-cover.jpg",
+      "facilities": {
+        "hostel": true,
+        "transport": false,
+        "smartClassrooms": true,
+        "sportsComplex": true,
+        "scienceLabs": true,
+        "library": true,
+        "cafeteria": true,
+        "wifi": true
+      },
+      "achievements": [
+        {
+          "id": "ach-6",
+          "title": "Global Top 50 Design Institutions",
+          "issuingOrg": "World Design Organization (WDO)",
+          "year": 2025,
+          "description": "Recognized for human-centered design patents and social innovation prototypes."
+        }
+      ],
+      "ratingSummary": {
+        "averageRating": 4.9,
+        "totalReviews": 28
+      }
+    },
+    {
+      "id": "inst-006",
+      "slug": "the-doon-school-dehradun",
+      "name": "The Doon School, Dehradun",
+      "type": "School",
+      "status": "Published",
+      "city": "Dehradun",
+      "state": "Uttarakhand",
+      "address": "Mall Road, Krishna Nagar, Dehradun, Uttarakhand 248001",
+      "description": "An all-boys all-residential boarding school situated in the tranquil Doon Valley, offering IB Diploma and ICSE/ISC curricula with an emphasis on discipline, character, debate, and outdoor expeditions.",
+      "contactNumber": "+91 135 252 6400",
+      "email": "info@doonschool.com",
+      "website": "https://doonschool.com",
+      "affiliation": "CISCE & International Baccalaureate (IB)",
+      "establishedYear": 1935,
+      "logo": "/images/institutes/doon-logo.png",
+      "coverImage": "/images/institutes/doon-cover.jpg",
+      "facilities": {
+        "hostel": true,
+        "transport": true,
+        "smartClassrooms": true,
+        "sportsComplex": true,
+        "scienceLabs": true,
+        "library": true,
+        "cafeteria": true,
+        "wifi": true
+      },
+      "achievements": [
+        {
+          "id": "ach-7",
+          "title": "#1 Pure Residential School in India",
+          "issuingOrg": "Education World India",
+          "year": 2025,
+          "description": "Unbroken record for leadership grooming, global Rhodes scholars, and sports distinction."
+        }
+      ],
+      "ratingSummary": {
+        "averageRating": 4.8,
+        "totalReviews": 38
+      }
+    }
+  ],
+  "ratings": [
+    {
+      "id": "rev-1792656156062",
+      "instituteId": "inst-001",
+      "userId": "guest-7n92u9d",
+      "userName": "Manan",
+      "userRole": "Student",
+      "score": 5,
+      "comment": "Very good school",
+      "status": "Published",
+      "createdAt": "2026-10-22T08:02:36.062Z"
+    },
+    {
+      "id": "rev-1792653023129",
+      "instituteId": "inst-001",
+      "userId": "guest-mqgxssq",
+      "userName": "Meera Sengupta",
+      "userRole": "Parent of 12th Grader",
+      "score": 5,
+      "comment": "The career counselling cell and international olympiad exposure at DPS R.K. Puram helped my daughter get admission into Oxford. Incredible institution!",
+      "status": "Published",
+      "createdAt": "2026-10-22T07:10:23.129Z"
+    },
+    {
+      "id": "rev-101",
+      "instituteId": "inst-001",
+      "userId": "usr-01",
+      "userName": "Rameshwardeep Khurana",
+      "userRole": "Parent",
+      "score": 5,
+      "comment": "DPS R.K. Puram's transition to iCampusPro for digital fees, report cards, and parent updates has been exceptional. Faculty is deeply committed.",
+      "status": "Published",
+      "createdAt": "2026-09-15T10:30:00Z"
+    },
+    {
+      "id": "rev-102",
+      "instituteId": "inst-001",
+      "userId": "usr-02",
+      "userName": "Ananya Sen",
+      "userRole": "Alumni",
+      "score": 5,
+      "comment": "The debate culture and Olympiad training here are unparalleled across India. Lifelong foundation was laid here.",
+      "status": "Published",
+      "createdAt": "2026-08-20T14:15:00Z"
+    },
+    {
+      "id": "rev-103",
+      "instituteId": "inst-002",
+      "userId": "usr-03",
+      "userName": "Aarav Deshmukh",
+      "userRole": "Student",
+      "score": 5,
+      "comment": "Malhar fest, intellectual discussions under the arches, and professors who challenge every assumption. St. Xavier's is magical.",
+      "status": "Published",
+      "createdAt": "2026-09-02T16:45:00Z"
+    },
+    {
+      "id": "rev-104",
+      "instituteId": "inst-003",
+      "userId": "usr-04",
+      "userName": "Pooja Singhania",
+      "userRole": "Parent",
+      "score": 5,
+      "comment": "My son cleared JEE Advanced in the top 100 ranks. The mentorship and mock analysis system in ALLEN is unmatched.",
+      "status": "Published",
+      "createdAt": "2026-07-14T09:10:00Z"
+    },
+    {
+      "id": "rev-105",
+      "instituteId": "inst-004",
+      "userId": "usr-05",
+      "userName": "Meghna Nair",
+      "userRole": "Parent",
+      "score": 4,
+      "comment": "Safe, warm, and nurturing teachers. My toddler developed great speech and motor coordination within 6 months.",
+      "status": "Published",
+      "createdAt": "2026-10-01T11:20:00Z"
+    },
+    {
+      "id": "rev-106",
+      "instituteId": "inst-005",
+      "userId": "usr-06",
+      "userName": "Karan Malhotra",
+      "userRole": "Student",
+      "score": 5,
+      "comment": "The design studios and workshop prototyping facilities operate 24x7. A transformative sanctuary for designers.",
+      "status": "Published",
+      "createdAt": "2026-09-28T18:00:00Z"
+    },
+    {
+      "id": "rev-107",
+      "instituteId": "inst-001",
+      "userId": "usr-07",
+      "userName": "Vikram Sethi",
+      "userRole": "Parent",
+      "score": 4,
+      "comment": "Great facilities and science labs, though school bus routes can experience peak traffic delays in South Delhi.",
+      "status": "Pending",
+      "createdAt": "2026-10-21T08:30:00Z"
+    }
+  ],
+  "enquiries": [
+    {
+      "id": "ENQ-2026-5659",
+      "instituteName": "BlockCoders",
+      "instituteType": "Coaching Institute",
+      "city": "Chandigarh",
+      "contactPerson": "Ritin Negi",
+      "mobile": "9898989898",
+      "email": "blockcoders@gmail.com",
+      "studentStrength": "Under 1,000 Students",
+      "deploymentNeed": "Multi-Tenant SaaS",
+      "status": "Under Review",
+      "createdAt": "2026-10-22T07:58:15.268Z"
+    },
+    {
+      "id": "ENQ-2026-2379",
+      "instituteName": "Greenwood High International",
+      "instituteType": "School",
+      "city": "Bengaluru",
+      "contactPerson": "Dr. Priya Sundaram",
+      "mobile": "+91 98450 11223",
+      "email": "priya@greenwoodhigh.edu.in",
+      "status": "New",
+      "createdAt": "2026-10-22T07:09:44.910Z"
+    },
+    {
+      "id": "ENQ-2026-001",
+      "instituteName": "Oakridge International School",
+      "instituteType": "School",
+      "city": "Hyderabad",
+      "contactPerson": "Sanjay Reddy",
+      "mobile": "+91 98490 12345",
+      "email": "sanjay.reddy@oakridge.edu",
+      "status": "Under Review",
+      "createdAt": "2026-10-18T14:20:00Z",
+      "adminNotes": "Requested demo for 2,200 students with multi-currency fee module."
+    },
+    {
+      "id": "ENQ-2026-002",
+      "instituteName": "Resonance Eduventures",
+      "instituteType": "Coaching Institute",
+      "city": "Kota",
+      "contactPerson": "Manoj Sharma",
+      "mobile": "+91 94141 87654",
+      "email": "m.sharma@resonance.ac.in",
+      "status": "Contacted",
+      "createdAt": "2026-10-19T09:45:00Z",
+      "adminNotes": "Followed up via phone. Scheduled platform walkthrough for next Tuesday."
+    },
+    {
+      "id": "ENQ-2026-003",
+      "instituteName": "Symbiosis Institute of Design",
+      "instituteType": "College",
+      "city": "Pune",
+      "contactPerson": "Dr. Radhika Joshi",
+      "mobile": "+91 98220 54321",
+      "email": "radhika.j@sid.edu.in",
+      "status": "New",
+      "createdAt": "2026-10-21T16:10:00Z",
+      "adminNotes": "Awaiting initial review."
+    }
+  ],
+  "contacts": [
+    {
+      "id": "REQ-2026-8083",
+      "name": "Manan Bhaskar",
+      "email": "mananbhaskar@gmail.com",
+      "phone": "9999999991",
+      "queryType": "Subscription",
+      "message": "Enquiry about my subscription",
+      "status": "New",
+      "assignedTo": "Billing Support",
+      "createdAt": "2026-10-22T08:00:45.779Z"
+    },
+    {
+      "id": "REQ-2026-8761",
+      "name": "Col. Arvind Mehra",
+      "email": "mehra.arvind@outlook.com",
+      "phone": "+91 99110 55667",
+      "queryType": "Technical",
+      "message": "We need API access to sync student attendance with our campus turnstile gates.",
+      "status": "New",
+      "assignedTo": "Technical Architecture Team",
+      "createdAt": "2026-10-22T07:10:22.063Z"
+    },
+    {
+      "id": "REQ-2026-001",
+      "name": "Dr. Pradeep Bansal",
+      "email": "bansal.p@gmail.com",
+      "phone": "+91 98100 23456",
+      "queryType": "Registration",
+      "message": "We run an ICSE school with 1,500 students in Noida. We would like to understand onboarding timelines and data migration support.",
+      "status": "In Progress",
+      "assignedTo": "Institute Onboarding Team",
+      "createdAt": "2026-10-20T11:00:00Z",
+      "adminNotes": "Sent onboarding checklist and brochure."
+    },
+    {
+      "id": "REQ-2026-002",
+      "name": "Smita Chawla",
+      "email": "smita.chawla@hotmail.com",
+      "phone": "+91 97110 33445",
+      "queryType": "Subscription",
+      "message": "How does pricing scale for small play schools with under 100 students? Are discounts available for non-profit foundations?",
+      "status": "New",
+      "assignedTo": "Billing Support",
+      "createdAt": "2026-10-21T13:40:00Z",
+      "adminNotes": ""
+    },
+    {
+      "id": "REQ-2026-003",
+      "name": "Rohit Verma",
+      "email": "rohit.v@techops.org",
+      "phone": "+91 98990 88776",
+      "queryType": "Technical",
+      "message": "Does iCampusPro support SAML 2.0 Single Sign-On and Microsoft Azure Active Directory synchronization?",
+      "status": "Resolved",
+      "assignedTo": "Technical Architecture Team",
+      "createdAt": "2026-10-17T08:15:00Z",
+      "adminNotes": "Confirmed SSO and SAML 2.0 integration compatibility."
+    }
+  ],
+  "advertisements": [
+    {
+      "id": "ad-01",
+      "title": "Admissions Open 2026-27 | Delhi Public School",
+      "advertiser": "Delhi Public School R.K. Puram",
+      "instituteId": "inst-001",
+      "badge": "Featured Institution",
+      "image": "/images/ads/ad-dps.jpg",
+      "description": "Enroll in India's leading school known for world-class labs, robotics centers, and global university placements.",
+      "ctaText": "Explore Campus & Apply",
+      "destinationUrl": "/institutes/delhi-public-school-rk-puram",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31",
+      "status": "Active",
+      "priority": 1
+    },
+    {
+      "id": "ad-02",
+      "title": "Autonomous Degree Programs 2026 | St. Xavier's Mumbai",
+      "advertiser": "St. Xavier's College",
+      "instituteId": "inst-002",
+      "badge": "NAAC A+ Accredited",
+      "image": "/images/ads/ad-xaviers.jpg",
+      "description": "Pursue bachelor and master degrees in Humanities, Sciences, and Mass Media with distinguished scholars.",
+      "ctaText": "View Degree Offerings",
+      "destinationUrl": "/institutes/st-xaviers-college-mumbai",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31",
+      "status": "Active",
+      "priority": 2
+    },
+    {
+      "id": "ad-03",
+      "title": "Target IIT-JEE & NEET 2027 Batches | ALLEN Kota",
+      "advertiser": "ALLEN Career Institute",
+      "instituteId": "inst-003",
+      "badge": "Special Scholarship Test",
+      "image": "/images/ads/ad-allen.jpg",
+      "description": "Avail up to 90% scholarship through TALLENTEX. Join Kota's most proven coaching ecosystem.",
+      "ctaText": "Check Scholarship Dates",
+      "destinationUrl": "/institutes/allen-career-institute-kota",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31",
+      "status": "Active",
+      "priority": 3
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "tst-1",
+      "displayName": "Sunita Verma",
+      "role": "Parent of 10th Grader",
+      "instituteName": "DPS R.K. Puram",
+      "avatar": "SV",
+      "text": "iCampusPro made tracking my daughter's academic milestones, fee invoices, and teacher conferences effortless. The platform feels like a true generational leap for educational oversight.",
+      "rating": 5,
+      "publicationStatus": "Published"
+    },
+    {
+      "id": "tst-2",
+      "displayName": "Prof. Arvind Kaushik",
+      "role": "Dean of Academic Affairs",
+      "instituteName": "St. Xavier's College",
+      "avatar": "AK",
+      "text": "Managing course registrations, attendance verification, and autonomous grade moderation used to take weeks. With iCampusPro, it takes hours with zero discrepancies.",
+      "rating": 5,
+      "publicationStatus": "Published"
+    },
+    {
+      "id": "tst-3",
+      "displayName": "Deepak Agrawal",
+      "role": "Director of Operations",
+      "instituteName": "ALLEN Kota",
+      "avatar": "DA",
+      "text": "Handling over 40,000 students across 12 branch campuses in Kota required ironclad stability. iCampusPro gives us real-time analytics, instant parent alerts, and AI insights.",
+      "rating": 5,
+      "publicationStatus": "Published"
+    },
+    {
+      "id": "tst-4",
+      "displayName": "Priyanka Nambiar",
+      "role": "Mother of Pre-Schooler",
+      "instituteName": "EuroKids Koramangala",
+      "avatar": "PN",
+      "text": "The daily photo updates, meal logs, and bus live tracking provide immense peace of mind. Every preschool should be on iCampusPro.",
+      "rating": 5,
+      "publicationStatus": "Published"
+    }
+  ],
+  "privacyPolicy": {
+    "version": "1.0",
+    "lastUpdated": "21 October 2026",
+    "sections": [
+      {
+        "id": "data-usage",
+        "title": "1. Data Usage Policy",
+        "content": "iCampusPro collects personal and institutional information solely for providing, securing, and enhancing educational campus management services. We process basic contact details, academic administration records, attendance summaries, and enquiry submissions as authorized by registered educational organizations. Information is strictly segmented per institution and is never sold to third-party advertisers or unauthorized brokers."
+      },
+      {
+        "id": "user-rights",
+        "title": "2. User Rights",
+        "content": "Under applicable data protection laws, registered users, parents, students, and institute representatives retain the right to: (a) request access to personal information stored on iCampusPro, (b) request prompt rectification of inaccurate records, (c) request deletion of contact enquiries or user profiles subject to statutory retention guidelines, and (d) withdraw consent for non-essential notifications at any time."
+      },
+      {
+        "id": "payment-subscription",
+        "title": "3. Payment & Subscription Data Handling",
+        "content": "All payment transactions, including institute software subscriptions and parent fee remittances, are processed securely through PCI-DSS Level 1 certified payment gateway partners. iCampusPro does not store complete debit/credit card numbers or banking credentials on public servers. Billing invoices and payment receipts are encrypted at rest using AES-256 standard encryption."
+      },
+      {
+        "id": "contact-disputes",
+        "title": "4. Contact for Disputes & Grievance Officer",
+        "content": "For privacy-related questions, data access requests, or dispute resolutions, please write to our designated Grievance & Privacy Officer at privacy@icampuspro.com or via postal dispatch to: iCampusPro Legal & Compliance Division, Cyber Heights, Sector 62, Noida, Uttar Pradesh 201309, India. We acknowledge all grievances within 48 business hours."
+      },
+      {
+        "id": "security-retention",
+        "title": "5. Security & Data Retention Practices",
+        "content": "We implement multi-factor authentication, SSL/TLS 1.3 transit encryption, automated vulnerability scanners, and role-based access control. Public registration enquiries and contact requests are retained for the duration required to service your query and maintain auditing records, after which they are archived or purged in accordance with our data governance framework."
+      }
+    ]
+  },
+  "newsletters": [
+    {
+      "id": "nl-1",
+      "email": "principal@delhiacademy.edu",
+      "subscribedAt": "2026-10-15T12:00:00Z"
+    }
+  ]
+}

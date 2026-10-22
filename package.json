@@ -1,0 +1,13 @@
+{
+  "name": "icampuspro-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "iCampusPro Public Website and Administration Portal",
+  "scripts": {
+    "dev:public": "npm --prefix public-website run dev",
+    "dev:admin": "npm --prefix admin run dev",
+    "build:public": "npm --prefix public-website run build",
+    "build:admin": "npm --prefix admin run build",
+    "build:all": "npm run build:public && npm run build:admin"
+  }
+}
